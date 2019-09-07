@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="26094" started-at="2019-09-07T13:25:20 GMT+02:00" finished-at="2019-09-07T13:25:46 GMT+02:00">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="26094" started-at="2019-09-07T13:25:20 GMT+02:00" finished-at="2019-09-07T13:25:46 GMT+02:00">
+      <class name="basharsoft.task.FirstScript">
+        <test-method status="PASS" signature="opensite()[pri:0, instance:basharsoft.task.FirstScript@61f8bee4]" name="opensite" is-config="true" duration-ms="6723" started-at="2019-09-07T13:25:20 GMT+02:00" finished-at="2019-09-07T13:25:26 GMT+02:00">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- opensite -->
+        <test-method status="PASS" signature="script()[pri:0, instance:basharsoft.task.FirstScript@61f8bee4]" name="script" duration-ms="18669" started-at="2019-09-07T13:25:27 GMT+02:00" finished-at="2019-09-07T13:25:45 GMT+02:00">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- script -->
+        <test-method status="PASS" signature="close()[pri:0, instance:basharsoft.task.FirstScript@61f8bee4]" name="close" is-config="true" duration-ms="648" started-at="2019-09-07T13:25:45 GMT+02:00" finished-at="2019-09-07T13:25:46 GMT+02:00">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- basharsoft.task.FirstScript -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
